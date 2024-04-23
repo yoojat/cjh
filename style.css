@@ -1,0 +1,9 @@
+body{
+    background: aqua;
+    color:rgb(255, 255, 255);
+    background-image: url('bg.jpg');
+}
+
+img{
+    width: 75%;
+}
